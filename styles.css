@@ -5,10 +5,20 @@ body{
 div{
 	background-color:white;
 }
-.player_one>a{
+
+ul{
+	padding:20px;
+	
+list-style-type: none;
+
+}
+a{
 	text-decoration:none;
 }
 h1{
+	text-align:center;
+}
+h2{
 	text-align:center;
 }
 .player_two{
